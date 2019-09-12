@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "new one",
+      "description": "good one",
+      "id": 2
+    },
+    {
+      "title": "majorRaam solo vs squad",
+      "description": "drop hunting maxx kills",
+      "id": 3
+    },
+    {
+      "title": "Test 1 new test",
+      "description": "testing edit stream",
+      "id": 5
+    },
+    {
+      "title": "Travel vlog 1",
+      "description": "let the journey begin. Day 1 on the RE ContinentalGT",
+      "userId": "112909720962470722857",
+      "id": 6
+    }
+  ]
+}
